@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadAnts", "DeadAnts\DeadAnts.csproj", "{2106BC56-C820-4B78-A4A0-640ECB5FD8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadAntsTests", "DeadAntsTests\DeadAntsTests.csproj", "{FE231722-FBDE-49D9-B4B6-3B21FB235C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2106BC56-C820-4B78-A4A0-640ECB5FD8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2106BC56-C820-4B78-A4A0-640ECB5FD8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2106BC56-C820-4B78-A4A0-640ECB5FD8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2106BC56-C820-4B78-A4A0-640ECB5FD8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE231722-FBDE-49D9-B4B6-3B21FB235C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE231722-FBDE-49D9-B4B6-3B21FB235C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE231722-FBDE-49D9-B4B6-3B21FB235C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE231722-FBDE-49D9-B4B6-3B21FB235C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

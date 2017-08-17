@@ -1,0 +1,7 @@
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\bin\Debug\DeadAntsTests.dll
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\bin\Debug\DeadAntsTests.pdb
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\bin\Debug\DeadAnts.dll
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\bin\Debug\DeadAnts.pdb
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\obj\Debug\DeadAntsTests.csprojResolveAssemblyReference.cache
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\obj\Debug\DeadAntsTests.dll
+D:\coredev_tw\Homework\DeadAnts\DeadAnts\DeadAntsTests\obj\Debug\DeadAntsTests.pdb
